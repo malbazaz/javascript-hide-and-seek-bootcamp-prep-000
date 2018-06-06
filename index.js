@@ -18,6 +18,6 @@ const mac = document.querySelector('.ranked-lists')
 }
 function deepestChild(){
 
-return document.querySelectorAll('div>#grand-node')
+return document.querySelectorAll('div #grand-node')
   
 }
