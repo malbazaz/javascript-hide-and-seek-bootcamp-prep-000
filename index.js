@@ -1,6 +1,5 @@
 var selector
-var target 
-var nested 
+
 
 function getFirstSelector(selector){
 
