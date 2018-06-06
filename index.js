@@ -1,4 +1,4 @@
-
+var selector
 
 function getFirstSelector(selector){
 
