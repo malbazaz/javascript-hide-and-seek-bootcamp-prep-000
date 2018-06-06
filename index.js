@@ -14,7 +14,8 @@ return document.querySelector('#nested .target')
 
 function increaseRankBy(n){
 
-const mac = document.querySelector('.ranked-lists')+1 
+const mac = document.querySelector('.ranked-lists')
+return mac+n
 }
 function deepestChild(){
 
