@@ -1,5 +1,5 @@
 var selector
-
+var n
 
 function getFirstSelector(selector){
 
