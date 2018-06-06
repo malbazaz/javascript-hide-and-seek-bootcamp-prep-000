@@ -2,4 +2,4 @@ function getFirstSelector(selector){
 
 }
 
-document.querySelector('div')
+index.querySelector('div')
