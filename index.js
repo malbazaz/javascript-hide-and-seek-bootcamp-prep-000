@@ -15,7 +15,8 @@ return document.querySelector('#nested .target')
 function increaseRankBy(n){
 
 var mac = document.querySelector('.ranked-lists')
-parseInt(mac)+n
+mac+=n
+parseInt(mac)
 return mac
 
 }
