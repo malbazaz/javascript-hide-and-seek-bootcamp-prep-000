@@ -1,5 +1,8 @@
+
+
 function getFirstSelector(selector){
+
+document.querySelector(selector)
 
 }
 
-index.querySelector('div')
