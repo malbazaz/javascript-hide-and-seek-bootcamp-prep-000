@@ -10,9 +10,13 @@ return document.querySelector(selector)
 
 function nestedTarget(){
 
-return document.querySelector('nested~=target')
+return document.querySelector('#nested.target')
 }
 
 function increaseRankBy(n){
- document.querySelector('.ranked-lists')
+
+const mac = document.querySelector('.ranked-lists')
+}
+function deepestChild(){
+  return document.querySelectorAll(div#grand-node)
 }
