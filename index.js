@@ -16,7 +16,7 @@ function increaseRankBy(n){
 
 var mac = document.querySelector('.ranked-lists')
 mac+=n
-parseInt(10,mac)
+parseInt(mac,10)
 return mac
 
 }
